@@ -1,5 +1,5 @@
 #include <iostream>
-
+// expect to read lines from a file
 
 int main() {
   std::string line, current;
